@@ -5,7 +5,7 @@
 library(tidyverse)
 
 # --- Paths ---
-project_root <- "C:/Users/ariya/OneDrive - University Of Houston/Research Thesis"
+project_root <- "C:/Users/ariya/OneDrive - University Of Houston/Codon Bias"
 results_dir  <- file.path(project_root, "Results_RSCU Results")
 
 input_csv <- file.path(results_dir, "ChiSquare_CodonBias_by_AA.csv")

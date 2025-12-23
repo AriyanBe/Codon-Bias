@@ -7,7 +7,7 @@ library(tidyverse)
 library(seqinr)
 
 # --- Define paths ---
-project_root <- "C:/Users/ariya/OneDrive - University Of Houston/Research Thesis"
+project_root <- "C:/Users/ariya/OneDrive - University Of Houston/Codon Bias"
 
 codon_dir   <- file.path(project_root, "Codons")
 results_dir <- file.path(project_root, "Results_RSCU Results")

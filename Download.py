@@ -3,7 +3,7 @@ import urllib.request
 import os
 
 # Email for NCBI
-Entrez.email = "aahmadz2@cougarnet.uh.edu"
+Entrez.email = ""
 
 # Create folder structure
 base_dir = "."
